@@ -1,0 +1,16 @@
+form {
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  label {
+    font-size: 1.6rem;
+  }
+
+  input {
+    width: 300px;
+    margin: 20px;
+    height: 2rem;
+  }
+}
