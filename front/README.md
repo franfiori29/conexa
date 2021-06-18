@@ -14,7 +14,7 @@ REACT_APP_API_URL=http://localhost:8000
 
 Instala las dependencias del proyecto.
 
-### `Ejecutar el comando npm run dev`
+### `Ejecutar el comando npm start`
 
 Corre el servidor en modo de desarrollo.
 
